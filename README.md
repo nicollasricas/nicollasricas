@@ -35,8 +35,8 @@ let nicollas = {
 
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/nicollasricas/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/nicollasricas/github-stats-transparent/output/generated/languages.svg)
+![](./overview.svg)
+![](./languages.svg)
 
 </a>
 
