@@ -4,7 +4,6 @@
 Wazzupppppp, I'm Nicollas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
-[![https://twitter.com/nicollasfr](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nicollasfr)
 [![https://discord.com/users/335782316846612481](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/335782316846612481)
 
 <div align="left">
